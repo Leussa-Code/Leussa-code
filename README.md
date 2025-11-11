@@ -10,16 +10,16 @@ circumstance.
 ---
 ## About Me
 **Work Experience:** 
-* Data Analyst (2024 - PRESENT)
+Data Analyst (2024 - PRESENT)
 - Designed regional invoice dashboard with aging segmentation.
 - Implemented alert systems and auto-generated commentary.
 - Enabled daily tracking of unpaid invoices and progress inference.
 
-* Customer Care Officer (2017 - 2023)
+Customer Care Officer (2017 - 2023)
 - Managed client accounts and resolved service issues
 - Contributed to reporting improvements and workflow optimization
 
-* Teleoperator (2014 - 2017)
+Teleoperator (2014 - 2017)
 - Handled inbound/outbound calls and supported data entry.
 
 ## Skills
