@@ -1,17 +1,33 @@
 ##  👋 Hi, I'm Leussa
 Data Analyst / SQL / Power BI / Excel
 
-<!--
-**Leussa-Code/Leussa-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHup portfolio!
+I'm passionate about transforming data into actionable insights 
+through analytics, visualization and storytelling. I'm confident
+in my ability to collaborate and contribute meaningfully in any
+circumstance.
 
+---
 ## About Me
-I'm a data analyst passionate about turning raw data into 
-actionable insights.
+**Work Experience:** 
+* Data Analyst (2024 - PRESENT)
+- Designed regional invoice dashboard with aging segmentation.
+- Implemented alert systems and auto-generated commentary.
+- Enabled daily tracking of unpaid invoices and progress inference.
+
+* Customer Care Officer (2017 - 2023)
+- Managed client accounts and resolved service issues
+- Contributed to reporting improvements and workflow optimization
+
+* Teleoperator (2014 - 2017)
+- Handled inbound/outbound calls and supported data entry.
 
 ## Skills
 - **Programming:** SQL
--**Visualization:** Power BI, DAX
+-**Visualization:** Power BI, DAX, Power Query, Dashboard automation,
+  Alert logic, commentary generation
 -**Tools:** Excel, Git
+  
 
 ## Education
 BA in Bilingual Studies ( English and French Language )
