@@ -10,7 +10,7 @@ actionable insights.
 
 ## Skills
 - **Programming:** SQL
--**Visualization:** Power BI
+-**Visualization:** Power BI, DAX
 -**Tools:** Excel, Git
 
 ## Education
