@@ -10,6 +10,7 @@ circumstance.
 ---
 ## About Me
 **Work Experience:** 
+
 Data Analyst (2024 - PRESENT)
 - Designed regional invoice dashboard with aging segmentation.
 - Implemented alert systems and auto-generated commentary.
