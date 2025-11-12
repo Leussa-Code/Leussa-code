@@ -36,9 +36,7 @@ Teleoperator (2014 - 2017)
 BA in Bilingual Studies ( English and French Language )
 University of Yaoundé I
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with Python for data analysis
 
