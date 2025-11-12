@@ -26,10 +26,10 @@ Teleoperator (2014 - 2017)
 ## Skills
 - **Programming:** SQL
   
--**Visualization:** Power BI, DAX, Power Query, Dashboard automation,
+- **Visualization:** Power BI, DAX, Power Query, Dashboard automation,
   Alert logic, commentary generation
   
--**Tools:** Excel, Git
+- **Tools:** Excel, Git
   
 
 ## Education
