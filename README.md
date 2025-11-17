@@ -4,7 +4,7 @@
 <h3 align="center">
 Turning Curiosity into Data-Driven Impact
 Data Analyst / SQL / Power BI / Excel </h3>
-
+<p align="center">
 My professional journey is a testament to the power of curiosity and adaptability.
 Although  not trained in data science through a traditional academic path, I 
 discovered early in my career that data is at the heart of every decision, every
@@ -13,7 +13,7 @@ interest in analytics and problem-solving, leading to me embracing data as both
 a tool and a philosophy for building a better future.
 As nature will want it, I officially integrated data analytics into my professional
 function marking a new chapter in my career. Since then, I have contributed to 
-several impactful projects.
+several impactful projects. </p>
 
 ---
 ## About Me
