@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">
-##  👋 Hi, I'm <span style="color:4CAF50;"> [Leussa]</span>span></h1>
+##  👋 Hi, I'm <span style="color:4CAF50;"> Leussa </span></h1>
 <h3 align
 Turning Curiosity into Data-Driven Impact
 Data Analyst / SQL / Power BI / Excel
