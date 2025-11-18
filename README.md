@@ -2,7 +2,7 @@
 
 <h1 align="center">
 👋 Hi, I'm <span style="color:4CAF50;"> Leussa </span></h1>
-<h3 align="center">
+<h3 style="background-color:powderblue;"align="center">
 Turning Curiosity into Data-Driven Impact</h3>
 <h4 align="center">  Data Analyst / SQL / Power BI / Excel </h4>
 <p align="center">
