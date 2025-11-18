@@ -11,12 +11,11 @@ a traditional academic path, I discovered early in my career that
 data is at the heart of every decision, every process, and every 
 opportunity for improvement. This realization sparked a deep interest
 in analytics and problem-solving, leading to me embracing data as both
-a tool and a philosophy for building a better future.
- </p>
- <p align="center">
-As nature will want it, I officially integrated data analytics into my professional
-function marking a new chapter in my career. Since then, I have contributed to 
-several impactful projects. </p>
+a tool and a philosophy for building a better future.As nature will 
+ want it, I officially integrated data analytics into my professional
+function marking a new chapter in my career. Since then, I have
+contributed to several impactful projects.
+</p>
 
 ---
 ## About Me
