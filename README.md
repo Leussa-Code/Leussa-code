@@ -1,4 +1,5 @@
 <!-- Header Section -->
+<body style="background-color:powderblue;">
 <h1 align="center">
 👋 Hi, I'm <span style="color:4CAF50;"> Leussa </span></h1>
 <h3 align="center">
@@ -54,3 +55,4 @@ University of Yaoundé I
 
 ## 📫 Email: tleussa@yahoo.com
 <a href="https://www.linkedin.com/in/leussa-tessa">Visit Linkedin</a>
+</body>
