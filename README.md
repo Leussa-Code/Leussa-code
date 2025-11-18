@@ -5,12 +5,15 @@
 Turning Curiosity into Data-Driven Impact</h3>
 <h4 align="center">  Data Analyst / SQL / Power BI / Excel </h4>
 <p align="center">
-My professional journey is a testament to the power of curiosity and adaptability.
-Although  not trained in data science through a traditional academic path, I 
-discovered early in my career that data is at the heart of every decision, every
-process, and every opportunity for improvement. This realization sparked a deep 
-interest in analytics and problem-solving, leading to me embracing data as both
+My professional journey is a testament to the power of curiosity 
+and adaptability. Although  not trained in data science through
+a traditional academic path, I discovered early in my career that
+data is at the heart of every decision, every process, and every 
+opportunity for improvement. This realization sparked a deep interest
+in analytics and problem-solving, leading to me embracing data as both
 a tool and a philosophy for building a better future.
+ </p>
+ <p align="center">
 As nature will want it, I officially integrated data analytics into my professional
 function marking a new chapter in my career. Since then, I have contributed to 
 several impactful projects. </p>
