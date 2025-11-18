@@ -50,5 +50,5 @@ University of Yaoundé I
 - 🌱 I’m currently learning Python and Machine Learning.
 - 🤔 I’m looking for help with Python for data analysis
 
-## 📫 Contact: tleussa@yahoo.com
-<a href="https://www.linkedin.com/in/leussa-tessa.com">Visit Linkedin</a>
+## 📫 Email: tleussa@yahoo.com
+<a href="https://www.linkedin.com/in/leussa-tessa">Visit Linkedin</a>
