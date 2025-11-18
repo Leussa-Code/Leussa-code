@@ -63,6 +63,6 @@ to several impactful projects.
   <a href="mailto:tleussa@yahoo.com"><img src="https://img.shields.io/badge/Email-tleussa%40yahoo.com-blue?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/leussa-tessa"><img src="https://img.shields.io/badge/LinkedIn-Leussa--Tessa-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/Leussa-Code"><img src="https://img.shields.io/badge/GitHub-Leussa--Code-black?style=for-the-badge&logo=github"></a>
-</p>
+
 
 
