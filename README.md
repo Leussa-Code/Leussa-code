@@ -2,8 +2,7 @@
 
 <h1 align="center">
 👋 Hi, I'm <span style="color:4CAF50;"> Leussa </span></h1>
-<h3 "align="center">
-Turning Curiosity into Data-Driven Impact</h3>
+<h3 align="center">Turning Curiosity into Data-Driven Impact</h3>
 <h4 align="center">  Data Analyst / SQL / Power BI / Excel </h4>
 <p align="center">
 My professional journey is a testament to the power of curiosity 
