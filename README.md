@@ -49,8 +49,8 @@ to several impactful projects.
 - **BA in Bilingual Studies (English & French Language)**  
   *University of Yaoundé I*  
 
-## Certification 
-- Certificate of Achievement in SQL awarded by 365 Daya Science 
+## 🎓 Certification 
+- Certificate of Achievement in SQL awarded by 365 Data Science 
 ---
 
 ## 🌱 Currently Learning
