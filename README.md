@@ -28,10 +28,11 @@ to several impactful projects.
   - Daily tracking of unpaid invoices with progress inference  
 
 - **Customer Care Officer (2017 – 2023)**
-  - Updated incorrect entries in CRM
-  - Ensured data quality and consistency
-  - Tracked call volumes, resolution rates, customer satisfaction
-  - Generated daily/weekly/monthly performance reports
+  - Collected and validated customer service data from CRM, CMS and other systems
+  - Identified and corrected inconsistencies in customer records to ensure data quality
+  - Analysed customer interactions, complaints, and service trends
+  - Generated daily, weekly and monthly reports on call volumes, resolution rates, and customer
+    satisfaction metrics
 
 - **Teleoperator (2014 – 2017)**
   - Handled inbound/outbound calls & supported data entry
