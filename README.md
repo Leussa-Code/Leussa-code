@@ -21,6 +21,7 @@ to several impactful projects.
 **💼 Work Experience**
 
 - **Data Analyst (2024 – Present)**
+- **Eneo Cameroon**
   - Database creation & management  
   - Dashboarding, visualization, data cleaning & transformation  
   - Customer segmentation analyses for business decisions  
@@ -28,6 +29,7 @@ to several impactful projects.
   - Daily tracking of unpaid invoices with progress inference  
 
 - **Customer Care Officer (2017 – 2023)**
+- **Eneo Cameroon**
   - Collected and validated customer service data from CRM, CMS and other systems
   - Identified and corrected inconsistencies in customer records to ensure data quality
   - Analysed customer interactions, complaints, and service trends
@@ -35,6 +37,7 @@ to several impactful projects.
     satisfaction metrics
 
 - **Teleoperator (2014 – 2017)**
+- **Eneo Cameroon**
   - Handled inbound/outbound calls & supported data entry
   - Produced daily call statistics
   - Excel tracking
